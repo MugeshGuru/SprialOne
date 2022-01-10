@@ -14,6 +14,9 @@ public class SampleOne {
 	
 	private void empPhone() {
 		System.out.println("Employee phone : 123456");
+		System.out.println("Employee Mobile 987654322");
+
+
 
 	}
 }
