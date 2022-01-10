@@ -11,4 +11,9 @@ public class SampleOne {
 	private void empId() {
 		System.out.println("Emp Id");
 	}
+	
+	private void empPhone() {
+		System.out.println("Employee phone : 123456");
+
+	}
 }
